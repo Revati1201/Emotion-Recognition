@@ -1,0 +1,23 @@
+# DAiSEE Dataset
+================
+
+The DAiSEE dataset is a multi-label video classification dataset for recognizing user affective states in e-learning environments. It contains 9068 video snippets captured from 112 users, annotated with four levels of labels (very low, low, high, and very high) for each of the affective states (boredom, confusion, engagement, and frustration).
+
+## Dataset Description
+
+The dataset consists of 15 GB of video files, along with a README file and a few scripts to get you started.
+
+## Authors
+
+The DAiSEE dataset was created by Abhay Gupta, Arjun D'Cunha, Kamal Awasthi, and Vineeth Balasubramanian.
+
+## Reference
+
+Please cite the following papers when using this dataset:
+
+* Gupta, A., D'Cunha, A., Awasthi, K., & Balasubramanian, V. (2018). DAiSEE: Towards User Engagement Recognition in the Wild. arXiv preprint arXiv:1609.01885.
+* Kamath, A., Biswas, A., & Balasubramanian, V. (2016). A Crowdsourced Approach to Student Engagement Recognition in e-Learning Environments. IEEE Winter Conference on Applications of Computer Vision (WACV'16).
+
+## Links
+
+* Original DAiSEE website: [https://people.iith.ac.in/vineethnb/resources/daisee/index.html](https://people.iith.ac.in/vineethnb/resources/daisee/index.html)
